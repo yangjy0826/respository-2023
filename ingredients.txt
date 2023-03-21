@@ -1,5 +1,10 @@
 * 2 tbsp cilantro
-* 1 avocados
+<<<<<<< HEAD
+* 2 avocados
 * 1 lime
+=======
+* 2 avocados
+* 2 lime
+>>>>>>> like-cilantro
 * 2 tsp salt
 make change
